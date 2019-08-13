@@ -1,0 +1,2 @@
+const cardData=(['https://mypostercollection.com/wp-content/uploads/2018/08/Captain-America-Poster-2014-MyPosterCollection.com-27-683x1024.jpg',"https://mypostercollection.com/wp-content/uploads/2018/08/Iron-Man-Poster-2008-MyPosterCollection.com-3-683x1024.jpg"])
+export default cardData;
